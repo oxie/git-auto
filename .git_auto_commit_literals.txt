@@ -1,0 +1,16 @@
+# Example custom infuscation literals for git-auto-commit
+# Add sensitive literal strings here, one per line.
+# Lines starting with # are ignored.
+# Longer strings will be replaced before shorter strings if they overlap.
+
+# Example: Specific internal project name
+ProjectPhoenix
+
+# Example: Specific internal URL
+https://internal-dashboard.mycompany.local/metrics
+
+# Example: A specific username
+super_admin_user
+
+# Example: A short literal that might be part of a longer one (place longer ones first)
+mycompany.local

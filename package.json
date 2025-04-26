@@ -1,0 +1,11 @@
+{
+  "name": "roo-code-projects",
+  "version": "1.0.0",
+  "description": "Project containing Roo code rules and configurations",
+  "scripts": {
+    "roo": "roo"
+  },
+  "devDependencies": {
+    "roo-cli": "^0.2.17"
+  }
+}
