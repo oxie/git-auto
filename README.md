@@ -272,7 +272,7 @@ Alternatively, configure it manually or using a framework like [pre-commit](http
 
 ## 🤝 Contributing
 
-(Placeholder - Add contribution guidelines if desired)
+Feel free to contribute!
 
 ## 📄 License
 
